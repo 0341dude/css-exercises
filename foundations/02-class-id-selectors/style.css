@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(192, 113, 179);
+    font-family: Verdana, DejavuSans, sans-serif;
+}
+
+.med-text {
+    font-size: 24px;
+}
+
+#bigboy {
+    font-size: 36px;
+    color:rgb(0,0,175);
+}
+
+#greenboy {
+    font-weight: bold;
+    background-color: rgb(0,222,0);
+}
